@@ -1,0 +1,42 @@
+body {
+	font-size: 14px;
+	margin-left: 8cm;
+	margin-right:3cm;
+	text-align:left;
+	font-style: Times New Roman;
+	background: pink;
+
+}
+#navbar{
+	padding-top: 50px;
+	text-align: left;
+	top:0;
+	width: 15%;
+	z-index: 0;
+	overflow-x: hidden;
+	background-color: green;
+	position:fixed;
+	left:0;
+	height: 100%;
+}
+#main_doc{
+	margin-left:160px;
+	font-size: 13px;
+	padding-top: 12px;
+
+}
+#nav-link{
+	font-size: 30px;
+	text-decoration: none;
+	padding: 10px 8px 6px 16px;
+}
+#unordered_list{
+	list-style-type: none;
+	margin: 0;
+	padding: 11px;
+	text-align: left;
+}
+header, h1, h2{
+	color: blue;
+
+}
